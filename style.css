@@ -192,18 +192,18 @@ small {
 
 #clock div {
     display: inline-block;
-    font-size: 14px;
+    font-size: 10px;
     font-weight: 600;
-    margin:0 25px 30px 25px;
+    margin:0 8px 20px 8px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    line-height: 60px;
+    line-height: 30px;
 }
 #clock span {
     display: block;
-    font-size: 72px;
+    font-size: 32px;
     font-weight: 100;
-    padding: 30px 0;
+    padding: 10px 0;
     border-bottom: 1px solid #fff;
 }
 
@@ -233,10 +233,17 @@ small {
   .cover-container {
     width: 100%;
   }
-
   .cover-heading {
     font-size: 40px;
   }
+    #clock span {
+        font-size: 72px;
+    }
+    #clock div {
+        margin:0 25px 30px 25px;
+        line-height: 60px;
+        font-size: 14px;
+    }
 }
 
 @media (min-width: 992px) {
