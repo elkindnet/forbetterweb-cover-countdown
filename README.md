@@ -4,7 +4,7 @@
 
 ###[Live Demo](http://elkindnet.github.io/forbetterweb-cover-countdown/) | [Download](https://github.com/elkindnet/forbetterweb-cover-countdown/archive/gh-pages.zip)
 
-[Cover Countdown](http://forbetterweb.com/htmlandbootstrap/cover-countdown-one-page-websites-html-bootstrap/) - Cover Countdown is a one-page coming soon theme for building simple and beautiful home pages. Download, edit the text, and add video from YouTube to make it your own.
+Cover countdown is a coming soon theme with video background for building simple and beautiful home pages. Download, edit the text, and add video from YouTube to make it your own.
 
 ## Creator
 
