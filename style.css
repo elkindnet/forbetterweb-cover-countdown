@@ -203,7 +203,7 @@ small {
     display: block;
     font-size: 32px;
     font-weight: 100;
-    padding: 10px 0;
+    padding: 30px 0;
     border-bottom: 1px solid #fff;
 }
 
@@ -238,6 +238,7 @@ small {
   }
     #clock span {
         font-size: 72px;
+        padding: 30px 0;
     }
     #clock div {
         margin:0 25px 30px 25px;

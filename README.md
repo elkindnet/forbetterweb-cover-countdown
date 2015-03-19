@@ -1,6 +1,6 @@
 # [ForBetterWeb](http://forbetterweb.com/) - [Classic Cover](http://forbetterweb.com/htmlandbootstrap/classic-cover-video-background-one-page-websites-html-bootstrap/)
 
-<img src="https://raw.githubusercontent.com/elkindnet/forbetterweb-cover-landing/gh-pages/img/screenshot.jpg">
+<img src="https://raw.githubusercontent.com/elkindnet/forbetterweb-cover-countdown/gh-pages/img/screenshot.jpg">
 
 ###[Live Demo](http://forbetterweb.com/htmlandbootstrap/classic-cover-video-background-one-page-websites-html-bootstrap/)   |   [Download](https://github.com/elkindnet/forbetterweb-cover-landing/archive/gh-pages.zip)
 
